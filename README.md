@@ -1,2 +1,2 @@
 # LoginForm
- Formulário de login feita com HTML e CSS 
+ Formulário de login feito com HTML e CSS 
