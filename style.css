@@ -12,20 +12,12 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(img000.jpeg) no-repeat;
+    background: url(WhatsApp\ Image\ 2024-06-04\ at\ 11.02.49.jpeg) no-repeat;
     background-size: cover;  
     background-position: center;
     
     
 }
-
- @media only screen and (max-width: 860px) {
-    body{
-        background: url(mobile.jpeg) no-repeat;
-        background-size: cover;
-        background-position: center;
-    }
-  } 
 
 .wrapper{
     width: 420px;
